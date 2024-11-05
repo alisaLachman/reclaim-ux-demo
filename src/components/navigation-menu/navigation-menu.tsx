@@ -40,6 +40,9 @@ export const NavigationMenu = ({ className, vertical = false }: NavigationMenuPr
                 <li>
                     <NavLink to="/about-us">About Us</NavLink>
                 </li>
+                <li className={styles.padding}>
+                    <NavLink to="/clients">Clients</NavLink>
+                </li>
             </ul>
         </nav>
     );
