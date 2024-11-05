@@ -1,7 +1,7 @@
 .hero-image {
     display: flex;
     max-width: 100%;
-    height: 500px;
+    height: 400px;
     overflow: hidden;
     font-family: Arial, sans-serif;
     flex-direction: row;
@@ -31,7 +31,7 @@
     @media (width <= 1024px) {
         font-size: 50px;
     }
-    color: var(--primary6);
+    color: #7c342a;
     line-height: 58px;
     font-weight: 700;
 }
