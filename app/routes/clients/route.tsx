@@ -6,7 +6,7 @@ export default function Clients() {
             <div className={classes['hero-image']}>
                 <div className={classes['image-box']}>
                     <img
-                        src="https://static.wixstatic.com/media/11062b_96d03de8f48e44a7b3e70bc212c14102~mv2.jpg/v1/fit/w_640,h_640/Smelling Handmade Soap.jpg"
+                        src="https://static.wixstatic.com/media/11062b_30e14d2591244262980a875ed0017813~mv2.jpg/v1/fit/w_640,h_640/Organic Handmade Soap .jpg"
                         alt="Delicious Margherita Pizza"
                         className={classes.img}
                     />
