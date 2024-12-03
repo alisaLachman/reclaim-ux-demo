@@ -1,5 +1,6 @@
 import React from 'react';
 import classes from './route.module.scss';
+import classNames from 'classnames';
 export default function Clients() {
     return (
         <div>
@@ -19,7 +20,7 @@ export default function Clients() {
                         or video.
                     </p>
                     <div>
-                        <button className="button primaryButton">
+                        <button className={classNames('button', 'primaryButton', classes.btn)}>
                             <a href="">Shop All</a>
                         </button>
                     </div>
