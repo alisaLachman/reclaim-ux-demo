@@ -31,7 +31,7 @@
     @media (width <= 1024px) {
         font-size: 50px;
     }
-    color: #7c342a;
+    color: #000000;
     line-height: 58px;
     font-weight: 700;
 }
@@ -135,4 +135,7 @@
     min-width: 50px;
     max-width: 110px;
     opacity: 0.5;
+}
+.btn {
+    color: #ffffff;
 }
